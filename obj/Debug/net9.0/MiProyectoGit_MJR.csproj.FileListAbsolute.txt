@@ -1,0 +1,14 @@
+C:\Users\matjimrip\Desktop\MiProyectoGit_MJR\bin\Debug\net9.0\MiProyectoGit_MJR.exe
+C:\Users\matjimrip\Desktop\MiProyectoGit_MJR\bin\Debug\net9.0\MiProyectoGit_MJR.deps.json
+C:\Users\matjimrip\Desktop\MiProyectoGit_MJR\bin\Debug\net9.0\MiProyectoGit_MJR.runtimeconfig.json
+C:\Users\matjimrip\Desktop\MiProyectoGit_MJR\bin\Debug\net9.0\MiProyectoGit_MJR.dll
+C:\Users\matjimrip\Desktop\MiProyectoGit_MJR\bin\Debug\net9.0\MiProyectoGit_MJR.pdb
+C:\Users\matjimrip\Desktop\MiProyectoGit_MJR\obj\Debug\net9.0\MiProyectoGit_MJR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matjimrip\Desktop\MiProyectoGit_MJR\obj\Debug\net9.0\MiProyectoGit_MJR.AssemblyInfoInputs.cache
+C:\Users\matjimrip\Desktop\MiProyectoGit_MJR\obj\Debug\net9.0\MiProyectoGit_MJR.AssemblyInfo.cs
+C:\Users\matjimrip\Desktop\MiProyectoGit_MJR\obj\Debug\net9.0\MiProyectoGit_MJR.csproj.CoreCompileInputs.cache
+C:\Users\matjimrip\Desktop\MiProyectoGit_MJR\obj\Debug\net9.0\MiProyectoGit_MJR.dll
+C:\Users\matjimrip\Desktop\MiProyectoGit_MJR\obj\Debug\net9.0\refint\MiProyectoGit_MJR.dll
+C:\Users\matjimrip\Desktop\MiProyectoGit_MJR\obj\Debug\net9.0\MiProyectoGit_MJR.pdb
+C:\Users\matjimrip\Desktop\MiProyectoGit_MJR\obj\Debug\net9.0\MiProyectoGit_MJR.genruntimeconfig.cache
+C:\Users\matjimrip\Desktop\MiProyectoGit_MJR\obj\Debug\net9.0\ref\MiProyectoGit_MJR.dll
